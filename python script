@@ -47,4 +47,4 @@ def copy_all_new(input_path,output_path):
                         break
                 shutil.copy(for_test,output_path_1)
 
-copy_all_new('D:/test','D:/test2')
+
